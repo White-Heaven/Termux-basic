@@ -15,24 +15,24 @@ Termux-basic
 
 `pkg install curl`
 
-`pkg install php´
+`pkg install php`
 
-`pkg install openssh´
+`pkg install openssh`
 
-`pkg install sudo´
+`pkg install sudo`
 
 
-`pkg install nano´
+`pkg install nano`
 
-`pkg install toilet´
+`pkg install toilet`
 
-`pkg install bash´
+`pkg install bash`
 
-`pkg install figlet´
+`pkg install figlet`
 
-`pkg install wget´
+`pkg install wget`
 
-`pkg install toilet´
+`pkg install toilet`
 
 `pkg install ruby`
 
