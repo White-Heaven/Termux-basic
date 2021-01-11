@@ -1,0 +1,4 @@
+# Termux-basic
+python2
+nano
+bash
